@@ -1,0 +1,33 @@
+html {
+    background-color: #f28c28;
+}
+
+#notes {
+ font-size: 45px;
+}
+
+#createnotesBtn {
+    font-size: 25px;
+    background-color: #ffd580;
+    border-width: 2px;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#notesText {
+    height: 320px;
+    width: 450px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #ffd580;
+}
+
+#clearallBtn {
+    font-size: 25px;
+    background-color: #ffd580;
+    border-width: 2px;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
